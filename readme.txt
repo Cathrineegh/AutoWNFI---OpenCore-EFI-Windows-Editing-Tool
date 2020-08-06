@@ -10,7 +10,7 @@ This tool can:
 1) Assign and remove driver letters
 2) Make it relatively safe to alter your EFI files directly to try out things, as long as you have a backup available in Windows
 3) It remembers your choices making it more seamless to use the first or second, third or tenth time
-
+4) Create new backups of the EFI folder with ease
 
 
 Do I need to use Explorer++ or MiniTool Parition Wizard when I have this?
